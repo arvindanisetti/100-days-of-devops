@@ -1,4 +1,4 @@
-Day  1: Introduction to DevOps
+Day  1: Introduction to DevOps  
 Day  2: Introduction to Git and GitHub
 Day  3: Git Command Exercise
 Day  4: Mastering Command Line Basics and Key Linux Directories
